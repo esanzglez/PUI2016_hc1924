@@ -36,9 +36,9 @@ But what concerns to data , it is well chosen and supports the project.
 
 We would like to question: "The ratio of people over 45 years old biking on weekends over people biking on weekdays is the same or higher than the ratio of people under 45 years old biking over weekends to people below biking on weekdays"
 
-I would perform t-Test due to my independant variable is dichotomous because the dependant variable is the age (over or below 45) and 
+I would perform t-Test due to my independant variable is dichotomous because the dependant variable is the age (over or below 45) and the independent variable will be rides on days that will be continous. wE can succefully answer the question about the differences between tow groups.
 
-Also it is possible to perform qui squared.
+Also it is possible to perform qui squared considering categorical the independent variable (women or men) and it is also categorical the days of the weeks. so it can be tested and we can succesfully answer the question whether there are differences between groups.
 
 
 
